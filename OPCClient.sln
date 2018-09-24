@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OPCClient", "OPCClient\OPCClient.csproj", "{D684D4D5-4FAC-4B4A-BA75-D6B32A6BE34B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D684D4D5-4FAC-4B4A-BA75-D6B32A6BE34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D684D4D5-4FAC-4B4A-BA75-D6B32A6BE34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D684D4D5-4FAC-4B4A-BA75-D6B32A6BE34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D684D4D5-4FAC-4B4A-BA75-D6B32A6BE34B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DCD88E2-7C2C-4C23-BA0B-17DA304B93C9}
+	EndGlobalSection
+EndGlobal
